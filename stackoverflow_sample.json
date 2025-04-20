@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How to use async/await in Python?",
+    "answer": "Use async def to define a coroutine, await to call other coroutines, and asyncio.run to run the main coroutine."
+  },
+  {
+    "question": "What is the difference between list and tuple in Python?",
+    "answer": "Lists are mutable while tuples are immutable. Lists allow item assignment, but tuples do not."
+  }
+]
